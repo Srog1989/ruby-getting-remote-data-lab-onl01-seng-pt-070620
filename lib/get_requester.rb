@@ -2,7 +2,7 @@
 
 class GetRequester
   
-  def initialize
+ 
     
   
 end
